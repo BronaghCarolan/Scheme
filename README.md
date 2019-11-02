@@ -9,5 +9,5 @@ Encrypting program that encrypts/decrypts based on 3 different encrypting method
 2. "Permutation" which takes out multiple characters from 2 strings and concatenates them.
 3. "Combiné": a combination of the above two.
 
-A text to crypt/decrypt and an encrypting key are the inputs
+A text to crypt/decrypt and an encrypting key are the inputs.
 This code is commented in French.
