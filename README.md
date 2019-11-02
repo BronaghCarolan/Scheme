@@ -1,7 +1,7 @@
 # Scheme
 Programming through the language Scheme
 
-encrypting.rkt
+encrypting.rkt - Runs in Racket
 
 Encrypting program that encrypts/decrypts based on 3 different encrypting methods: 
 
